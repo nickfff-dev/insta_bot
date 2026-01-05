@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+other_scripts/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Session files (will be created fresh)
+session.json
+
+# Temp files - exclude contents but Docker will create the folder
+temp/*
+
+# Environment
+.env
+.env.local
+
+# Git
+.git/
+.gitignore
+
+# Temp files
+temp/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
