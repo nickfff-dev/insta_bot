@@ -42,7 +42,7 @@ instagram-story-bot/
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/nickfff-dev/insta_bot.git
    cd instagram-story-bot
    ```
 
